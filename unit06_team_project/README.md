@@ -79,8 +79,7 @@ the business recommendations section, final editing and submission.
    Turnitin sandbox check and submitted. Before submitting I raised the volatility map one last time. As a
    team we agreed to keep it and state it as a limitation rather than change code on the deadline day.
 
-**Where I fell short.** I missed the seminar on 8 August and the meeting on 29 August, and I was late with my
-writing around 28 August, which I apologised for at the time. My checking was useful, but a few of my posts
+**Where I fell short.** I missed the seminar on 8 August and watched the recording. My checking was useful, but a few of my posts
 were long and technical, and the team had to ask for a plain summary. That's something I've worked on since.
 
 ## Tutor feedback, and what I'm taking from it

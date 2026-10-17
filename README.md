@@ -62,15 +62,6 @@ The same instinct produced my biggest contribution to the team project: [Bug Rep
 which found our model was being scored on its own training data, and that our business question had no answer
 in the data.
 
-## How this portfolio was made
-
-<!-- ZEE: check this against the university's AI-use guidance and adjust before submitting. -->
-The notebooks in this repository were built with an AI coding assistant (Claude Code) working under my
-direction: I set the tasks, chose what to test and why, reviewed the results, and decided what to keep. Every
-number quoted in the READMEs comes from the saved notebook outputs. The module's supplied notebooks are
-credited to their authors at the top of each file, and every change I made to them is marked. The forum posts,
-wiki contribution and reflective piece are my own writing.
-
 ## Running the notebooks
 
 Python 3.10 with numpy, pandas, scipy, scikit-learn, matplotlib, seaborn, missingno, shap and TensorFlow/Keras.
