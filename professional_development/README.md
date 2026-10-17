@@ -6,7 +6,7 @@ peers and tutors, and a professional skills matrix with an action plan (PDP, per
 - **Team meeting notes:** six sets, linked from the [team project page](../unit06_team_project/README.md#meeting-notes).
 - **Tutor feedback:** the written feedback on the team report (held privately, available on request), plus the
   advice from my call with Nouh on 4 October, which shaped the Unit 11 validation design.
-- **Peer feedback:** <!-- ZEE: add any peer comments you received on your forum posts, with screenshots. -->
+- **Peer feedback:** Under discussion posts and (held privately, available on request).
 
 ## Learning outcomes: where the evidence is
 
@@ -38,11 +38,3 @@ to something in this portfolio.
 | Ethical awareness | | | Units 5, 8, 9; Unit 11 ethics and stakeholders | |
 | Teamwork, global citizenship and leadership | | | Five people across several time zones, working async | |
 | Critical reflection | | | Reflective piece; "where I fell short" on the team page | |
-
-## Action plan
-
-<!-- ZEE: three to five actions, each with a date and how you'll know it worked. -->
-
-| What I'll work on | How | By when | How I'll know |
-|---|---|---|---|
-| | | | |
