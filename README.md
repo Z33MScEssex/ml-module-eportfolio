@@ -100,4 +100,3 @@ Young, J. (2020) *Rain in Australia* [Dataset]. Kaggle. Available at: https://ww
 Dr Mike Lakoju (Unit 7 perceptron notebooks) and Theobald (Unit 8 recommender), and were provided through the
 University of Essex Online module ML_PCOM7E.
 
-<!-- ZEE: add the readings you cite in your forum posts and reflection (e.g. Wall, 2019; Mayo, 2017; Yu, 2024; Rolfe et al., 2001). -->
