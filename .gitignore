@@ -1,0 +1,14 @@
+# Build scripts, private evidence and the module's untouched originals stay local
+_build/
+private/
+supplied/
+screenshots/
+
+# Datasets whose licences don't allow redistribution (the notebooks download them)
+unit08_seminar_recommender/ml-100k/
+
+# Python and Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+unit06_team_project/Feedback AS1 Group 2.pdf
+unit06_team_project/Peer evaluation (submitted).pdf
