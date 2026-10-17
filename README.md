@@ -27,7 +27,6 @@ Where each one is evidenced: [professional development](professional_development
 | 2 | [EDA on Auto-mpg](unit02_seminar_eda/README.md) | Seminar prep, notebook | 2, 3 |
 | 3 | [Correlation and regression](unit03_correlation_regression/README.md) | e-Portfolio activity, 4 notebooks | 2, 3 |
 | 4 | [Linear regression: fuel demo and population vs GDP](unit04_seminar_regression/README.md) | Seminar prep, 2 notebooks | 2, 3, 4 |
-| 5 | [Wiki: clustering](unit05_wiki_clustering/README.md) | Wiki contribution | 2, 3, 4 |
 | 5 | [Jaccard coefficient calculations](unit05_jaccard/README.md) | e-Portfolio activity, notebook | 1, 2 |
 | 6 | [K-Means on iris, wine and weather](unit06_seminar_kmeans/README.md) | Seminar prep, notebook | 2, 3 |
 | 6 | [**Team project: Airbnb pricing**](unit06_team_project/README.md) | Summative, team | 1 to 4 |
@@ -40,7 +39,6 @@ Where each one is evidenced: [professional development](professional_development
 | 11 | [Model performance measurement](unit11_model_performance/README.md) | e-Portfolio activity, notebook | 1, 3 |
 | 11 | [**Individual project: Bliss word classes**](unit11_individual_project/README.md) | Summative, individual | 1 to 3 |
 | 11 | [Evaluation: final project vs team project](unit11_individual_project/evaluation_vs_unit06.md) | Evaluation | 3, 4 |
-| 12 | [The future of machine learning](unit12_seminar_future_of_ml/README.md) | Seminar prep | 1, 2, 3 |
 | All | [Professional development: skills matrix and action plan](professional_development/README.md) | PDP | 4 |
 
 ## A thread running through the portfolio: checking the numbers
