@@ -96,8 +96,3 @@ The peer evaluation form I submitted is held privately, since it names my teamma
 teammates 4 out of 5 ("above average") on every criterion. That was honest: everyone delivered their part,
 reviewed each other's pull requests and turned up to most meetings. Nobody was absent enough to deserve a low
 score, and no single person carried the project enough for a 5.
-
-My own mark for the peer-assessed component was 77%, against the team's 74%. Under the module's formula (team
-mark × your peer total ÷ the team average), that points to teammates rating my contribution slightly above the
-team average.
-<!-- ZEE: confirm this reading with Nouh before submitting. If unsure, delete the last paragraph. -->
